@@ -21,6 +21,7 @@ description:
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  ykeab94
 url:"https://ykeab94.github.io"
+remote_theme:"murraco/jekyll-theme-minimal-resume"
 
 # jekyll-paginate configuration
 paginate: 10
